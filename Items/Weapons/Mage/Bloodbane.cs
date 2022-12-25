@@ -25,7 +25,7 @@ namespace TenebraeMod.Items.Weapons.Mage
             item.mana = 10;
             item.shoot = mod.ProjectileType("BloodBolt");
             item.shootSpeed = 6f;
-            item.UseSound = SoundID.Item21;
+            item.UseSound = SoundID.Item85;
             item.noMelee = true;
             item.autoReuse = true;
         }
